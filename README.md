@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play multiplayer games :D
 -->
 ### Languages and Tools:
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-logo-mysql-organization-brand-database-mysql-devel-7020865%2F&psig=AOvVaw2micJndtW7Cb1bf2EfLhWj&ust=1623406101487000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCX6bjqjPECFQAAAAAdAAAAABAJ)
-
+<image src="https://user-images.githubusercontent.com/85007320/121510310-21769980-ca05-11eb-8654-7e412d798a4c.png" width="50" height="50"> <image src="https://user-images.githubusercontent.com/85007320/121511042-e032b980-ca05-11eb-814b-373e079dffcb.png" width="50" height="50">  <image src="https://user-images.githubusercontent.com/85007320/121511410-3869bb80-ca06-11eb-877a-2fd9f2c223a5.png" width="50" height="50">

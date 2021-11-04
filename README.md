@@ -1,6 +1,6 @@
-### Hi there, I am Sumanta aka Lucifer 👋 
+### Hi there, I am Lucifer 👋 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### A JEE Aspirant and a coder ;D
+
 - 🌱 I’m currently learning: Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play multiplayer games :D
